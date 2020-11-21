@@ -1,0 +1,1087 @@
+{"singleStates": [
+    {
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "1"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "2"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "ARROW LEFT"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": "3"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "."
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "ARROW UP"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "4"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 9,
+                "inputAction": "ARROW DOWN"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 10,
+                "inputAction": "HOME"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 11,
+                "inputAction": "SEARCH"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "ARROW RIGHT"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "GOTO"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 14,
+                "inputAction": "BACKSPACE"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 15,
+                "inputAction": "TAB"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": "5"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "6"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": "7"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 19,
+                "inputAction": "ESC"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 20,
+                "inputAction": "8"
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "Symbols",
+                "mapID": 23,
+                "inputAction": ""
+            },
+			{
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "9"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": "NEW"
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "Class",
+                "mapID": 23,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 25,
+                "inputAction": "ENTER"
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "Various",
+                "mapID": 26,
+                "inputAction": ""
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "VariableMacros",
+                "mapID": 27,
+                "inputAction": ""
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "default",
+                "mapID": 28,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 30,
+                "inputAction": "0"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 31,
+                "inputAction": " "
+            }
+        ],
+        "stateID": "SWITCH"
+    },
+    {
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "A"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "E"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "N"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": "I"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "D"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "T"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "default",
+                "mapID": 7,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "O"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 9,
+                "inputAction": "K"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 10,
+                "inputAction": "M"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 11,
+                "inputAction": "F"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "L"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "G"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 14,
+                "inputAction": "BACKSPACE"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 15,
+                "inputAction": "R"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": "U"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "Y"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": "B"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 19,
+                "inputAction": "P"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 20,
+                "inputAction": "Z"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": "W"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 22,
+                "inputAction": "Q"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 23,
+                "inputAction": "J"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "S"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 25,
+                "inputAction": "ENTER"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 26,
+                "inputAction": "X"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 27,
+                "inputAction": "V"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "Number",
+                "mapID": 28,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 29,
+                "inputAction": "C"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 30,
+                "inputAction": "H"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 31,
+                "inputAction": " "
+            }
+        ],
+        "stateID": "SHIFT"
+    },
+    {
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "false"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "true"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "False"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": "self"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "Transcript"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "True"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 7,
+                "inputAction": "startPoint"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "super"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 9,
+                "inputAction": "thisContext"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 11,
+                "inputAction": "ifFalse:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "do:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "timesRepeat:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 14,
+                "inputAction": "ifTrue:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": "nil"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "whileFalse:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": "whileTrue:"
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "SWITCH",
+                "mapID": 27,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 28,
+                "inputAction": "to:"
+            }
+        ],
+        "stateID": "VariableMacros"
+    },
+    {
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "Object"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "Integer"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "String"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 7,
+                "inputAction": "SmallInteger"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "Character"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 15,
+                "inputAction": "Number"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "Array"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": "asString:"
+            },
+			{
+                "transferMode": true,
+                "transferToMode": "SWITCH",
+                "mapID": 23,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "respondsTo:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 28,
+                "inputAction": "isKindOf:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 29,
+                "inputAction": "isVowel"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 30,
+                "inputAction": "isMemberOf:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 31,
+                "inputAction": "includes:"
+            }
+        ],
+        "stateID": "Class"
+    },
+    {
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "a"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "e"
+            },
+			{
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "n"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": "i"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "d"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "t"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "SHIFT",
+                "mapID": 7,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "o"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 9,
+                "inputAction": "k"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 10,
+                "inputAction": "m"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 11,
+                "inputAction": "f"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "l"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "g"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 14,
+                "inputAction": "DEL"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 15,
+                "inputAction": "r"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": "u"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "y"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": "b"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 19,
+                "inputAction": "p"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 20,
+                "inputAction": "z"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": "w"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 22,
+                "inputAction": "q"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 23,
+                "inputAction": "j"
+            },
+			{
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "s"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 25,
+                "inputAction": "ENTER"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 26,
+                "inputAction": "x"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 27,
+                "inputAction": "v"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "Number",
+                "mapID": 28,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 29,
+                "inputAction": "c"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 30,
+                "inputAction": "h"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 31,
+                "inputAction": " "
+            }
+        ],
+        "stateID": "default"
+    },
+	{
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "new"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "new:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "bitAnd:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": "primitive:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "bitOr:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "put"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 7,
+                "inputAction": "bitShift:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "into:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 10,
+                "inputAction": "at"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "each"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": ":each"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": "select:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "detect:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": "inject:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 20,
+                "inputAction": "sum"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": ":sum"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 22,
+                "inputAction": "value"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 23,
+                "inputAction": "value:"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "reject:"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "SWITCH",
+                "mapID": 26,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 28,
+                "inputAction": "collect:"
+            }
+        ],
+        "stateID": "Various"
+    },
+	{
+        "inputMapping": [
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 1,
+                "inputAction": "("
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 2,
+                "inputAction": "["
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 3,
+                "inputAction": "/"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 4,
+                "inputAction": ":"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 5,
+                "inputAction": "\\"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 6,
+                "inputAction": "#"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 7,
+                "inputAction": "$"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 8,
+                "inputAction": "]"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 9,
+                "inputAction": "*"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 10,
+                "inputAction": "'"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 11,
+                "inputAction": "{"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 12,
+                "inputAction": "+"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 13,
+                "inputAction": "~"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 14,
+                "inputAction": "="
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 15,
+                "inputAction": ":="
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 16,
+                "inputAction": ")"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 17,
+                "inputAction": "."
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 18,
+                "inputAction": ","
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 19,
+                "inputAction": "<"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 20,
+                "inputAction": ";"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 21,
+                "inputAction": "@"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 22,
+                "inputAction": "^"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 23,
+                "inputAction": "&"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 24,
+                "inputAction": "|"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 25,
+                "inputAction": ">"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 26,
+                "inputAction": "}"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 27,
+                "inputAction": "\""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 28,
+                "inputAction": "_"
+            },
+            {
+                "transferMode": true,
+                "transferToMode": "SWITCH",
+                "mapID": 29,
+                "inputAction": ""
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 30,
+                "inputAction": "-"
+            },
+            {
+                "transferMode": false,
+                "transferToMode": "",
+                "mapID": 31,
+                "inputAction": "%"
+            }
+        ],
+        "stateID": "Symbols"
+    }
+]}
