@@ -55,6 +55,8 @@ The structure of the file in JSON format should be the following (with example v
 ```
 In this case there are two states, with two possible taps in the "default" state and one in the "A" state.
 For more information look at classe below.
+Also attached is an example mapping considering elements of the syntax of the programming language [Pharo](https://pharo.org/).
+The name for this file is mappingForPharo.json
 
 ### JsonStates.cs
 
